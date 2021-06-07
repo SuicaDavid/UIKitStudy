@@ -103,7 +103,6 @@
 		F1BCEDFC25FDA03200362572 = {
 			isa = PBXGroup;
 			children = (
-				F1C784892600F5D20055BBC3 /* DetailViewController.swift */,
 				F1BCEE0725FDA03200362572 /* UIKitStudy */,
 				F1BCEE2125FDA03300362572 /* UIKitStudyTests */,
 				F1BCEE2C25FDA03300362572 /* UIKitStudyUITests */,
@@ -124,6 +123,7 @@
 		F1BCEE0725FDA03200362572 /* UIKitStudy */ = {
 			isa = PBXGroup;
 			children = (
+				F1C784892600F5D20055BBC3 /* DetailViewController.swift */,
 				F1BCEE3E25FDA11D00362572 /* Content */,
 				F1BCEE0825FDA03200362572 /* AppDelegate.swift */,
 				F1BCEE0A25FDA03200362572 /* SceneDelegate.swift */,
